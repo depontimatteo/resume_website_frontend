@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /home/dev/test
+
+npm run serve
